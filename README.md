@@ -1,4 +1,5 @@
 # Rafael-Sousa-Dias.TP1
+
 TP1 referente a disciplina de Javascript do Instituto Infnet
 
 ## 1. Qual a diferença de uma linguagem script server-side e uma linguagem client-side. Cite um exemplos de cada.
@@ -52,3 +53,12 @@ while (i < b) {
 ## 6. Explique a importância das funções para a lógica de programação e a escrita de algoritmos.
 
 ### É importante pois permite agrupar um conjunto de instruções e chamar quantas vezes quiser, sempre que for nescessário em qualquer parte da aplicação.
+
+# CODE.ORG
+
+## Screenshots
+
+![1](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org1.png)
+![2](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org2.png)
+![3](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org3.png)
+![4](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org4.png)
