@@ -58,7 +58,7 @@ while (i < b) {
 
 ## Screenshots
 
-![1](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org1.png)
-![2](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org2.png)
-![3](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org3.png)
-![4](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/main/code-org/code.org4.png)
+![1](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/blob/main/code-org/code.org1.png)
+![2](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/blob/main/code-org/code.org2.png)
+![3](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/blob/main/code-org/code.org3.png)
+![4](https://github.com/rafaelsdiasdev/Rafael-Sousa-Dias.TP1/blob/main/code-org/code.org4.png)
